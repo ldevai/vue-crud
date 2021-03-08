@@ -1,2 +1,2 @@
-## Vue Crud Application with Vuetify, Router, Fontawesome icons and JWT authentication
+## Vue Crud Application with Vuetify, Router, Markdown editor, Fontawesome icons and JWT authentication
 
